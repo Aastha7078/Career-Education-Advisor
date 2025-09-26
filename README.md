@@ -18,6 +18,7 @@
 - [About](#about)
 - [Features](#features)
 - [Live Demo](#live-demo)
+- [Screenshots](#screenshots)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
@@ -81,6 +82,36 @@ Specifically developed to tackle the challenges outlined in the Government of Ja
 **🔗 [https://smart-career-guidanc-k2ol.bolt.host](https://smart-career-guidanc-k2ol.bolt.host)**
 
 Experience the full functionality of the platform with our live demo. The application showcases all features including the aptitude test, career mapping, college directory, and analytics dashboard.
+
+### Key Platform Features Demonstrated:
+- **🎨 Beautiful UI/UX**: Kashmir-inspired color palette with smooth animations
+- **📱 Responsive Design**: Works seamlessly across desktop, tablet, and mobile devices  
+- **🏛️ Government Integration**: Official J&K government branding and portal links
+- **📊 Data-Driven Insights**: Real-time statistics and analytics dashboard
+- **🎯 Personalized Experience**: Tailored recommendations based on user profiles
+- **🔍 Advanced Search**: Smart filtering and search capabilities across all features
+
+## 📸 Screenshots
+
+### Home Page - Hero Section
+Beautiful landing page with government initiative branding, call-to-action buttons, and key statistics.
+
+![Home Page](https://github.com/user-attachments/assets/aa81ad70-7cf2-4aa8-baaa-04b11b4173c3)
+
+### Aptitude Assessment
+Interactive 15-question aptitude test with progress tracking and modern UI design.
+
+![Aptitude Test](https://github.com/user-attachments/assets/46b09a25-8f30-48e5-b6bb-c6585730cbed)
+
+### Government College Directory
+Comprehensive searchable database of government colleges with advanced filtering options by district and stream.
+
+![College Directory](https://github.com/user-attachments/assets/608513a0-3055-4afe-82ea-716036d4e289)
+
+### Career Path Visualization
+Interactive career mapping showing degree-to-profession progressions with salary insights and market demand analysis.
+
+![Career Paths](https://github.com/user-attachments/assets/5017c99f-17ef-43e1-bebd-2714a68f9542)
 
 ## 🛠️ Tech Stack
 
