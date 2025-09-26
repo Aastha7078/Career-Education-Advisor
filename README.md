@@ -79,7 +79,7 @@ Specifically developed to tackle the challenges outlined in the Government of Ja
 
 ## 🌐 Live Demo
 
-**🔗 [https://smart-career-guidanc-k2ol.bolt.host](https://smart-career-guidanc-k2ol.bolt.host)**
+**🔗 [https://carreredu.netlify.app/)**
 
 Experience the full functionality of the platform with our live demo. The application showcases all features including the aptitude test, career mapping, college directory, and analytics dashboard.
 
